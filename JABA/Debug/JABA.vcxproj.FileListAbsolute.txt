@@ -1,0 +1,6 @@
+C:\Users\f55do\source\repos\JABA\JABA\Debug\JABA.Practice_form.resources
+C:\Users\f55do\source\repos\JABA\JABA\Debug\JABA.vcxproj.GenerateResource.cache
+C:\Users\f55do\source\repos\JABA\JABA\Debug\JABA.Pyramid_Form.resources
+C:\Users\f55do\source\repos\JABA\JABA\Debug\JABA.Prizma_Form.resources
+C:\Users\f55do\source\repos\JABA\JABA\Debug\JABA.Cube_Form.resources
+C:\Users\f55do\source\repos\JABA\JABA\Debug\JABA.Parallel_Form.resources

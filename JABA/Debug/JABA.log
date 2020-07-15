@@ -1,0 +1,15 @@
+﻿  Cube_Form.cpp
+  Cube.cpp
+  parallelepiped.cpp
+  Prizm.cpp
+  Pyramid.cpp
+  Peak.cpp
+  Shape.cpp
+  Parallel_Form.cpp
+  Prizma_Form.cpp
+  Pyramid_Form.cpp
+  Practice_Form.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  Cube_Form.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  JABA.vcxproj -> C:\Users\f55do\source\repos\JABA\Debug\JABA.exe
