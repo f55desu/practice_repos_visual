@@ -1046,8 +1046,8 @@ private: System::Void button1_Click(System::Object^ sender, System::EventArgs^ e
 		peaks = figure->find_peaks();
 
 		textBox1->Text = Convert::ToString(volume);
-		textBox2->Text = Convert::ToString(all_square);
-		textBox3->Text = Convert::ToString(brink);
+		textBox2->Text = Convert::ToString(brink);
+		textBox3->Text = Convert::ToString(all_square);
 		//A
 		textBox23->Text = Convert::ToString(peaks[0]->get_x());
 		textBox5->Text = Convert::ToString(peaks[0]->get_y());

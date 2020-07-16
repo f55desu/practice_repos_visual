@@ -187,7 +187,7 @@ namespace JABA
 			this->Side->AutoSize = true;
 			this->Side->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->Side->Location = System::Drawing::Point(51, 61);
+			this->Side->Location = System::Drawing::Point(42, 61);
 			this->Side->Name = L"Side";
 			this->Side->Size = System::Drawing::Size(171, 25);
 			this->Side->TabIndex = 3;
@@ -207,7 +207,7 @@ namespace JABA
 			this->Height->AutoSize = true;
 			this->Height->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 12, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->Height->Location = System::Drawing::Point(51, 164);
+			this->Height->Location = System::Drawing::Point(42, 164);
 			this->Height->Name = L"Height";
 			this->Height->Size = System::Drawing::Size(162, 25);
 			this->Height->TabIndex = 5;
@@ -743,8 +743,8 @@ private: System::Void Result_Click(System::Object^ sender, System::EventArgs^ e)
 		peaks = figure->find_peaks();
 
 		textBox1->Text = Convert::ToString(volume);
-		textBox2->Text = Convert::ToString(all_square);
-		textBox3->Text = Convert::ToString(brink);
+		textBox2->Text = Convert::ToString(brink);
+		textBox3->Text = Convert::ToString(all_square);
 		//A
 		textBox4->Text = Convert::ToString(peaks[0]->get_x());
 		textBox5->Text = Convert::ToString(peaks[0]->get_y());

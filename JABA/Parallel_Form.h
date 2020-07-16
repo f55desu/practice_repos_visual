@@ -1082,8 +1082,8 @@ private: System::Void Result_Click_Click(System::Object^ sender, System::EventAr
 		peaks = figure->find_peaks();
 
 		textBox1->Text = Convert::ToString(volume);
-		textBox2->Text = Convert::ToString(all_square);
-		textBox3->Text = Convert::ToString(brink);
+		textBox2->Text = Convert::ToString(brink);
+		textBox3->Text = Convert::ToString(all_square);
 		textBox30->Text = Convert::ToString(facet);
 		textBox31->Text = Convert::ToString(face);
 
